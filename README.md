@@ -18,4 +18,11 @@ RESOURCES USED
 3.  OLLAMA MODEL LLAMA 3 
 4. FPDF FOR THE PDF MAKING 
 
+How to run it 
+1.   enter this command --> .\venv\Scripts\actvate --->(will generate the virtual environment )
+2.   set -ExcecutionPolicy -ExcecutionPolicy RemoteSigned -scope process  (to remove the error )
+3.   .\venv\Scripts\activate (the to create and run )
+4.   streamlit run app.py     (Run the program in the compiler )
+
+
 THIS PROJECT AIMS TO BULILD A USER FRIENDLY RESUME AND COVER LETTER     
